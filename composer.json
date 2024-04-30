@@ -1,0 +1,19 @@
+{
+    "name": "cottonfarmer420/weather",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Cottonfarmer420\\Weather\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Maximilian Scharler",
+            "email": "mscharler@schueler.hakzell.at"
+        }
+    ],
+    "version": "1.0.0",
+    "minimum-stability": "dev",
+    "require": {}
+}
