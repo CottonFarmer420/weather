@@ -15,5 +15,7 @@
     ],
     "version": "1.0.0",
     "minimum-stability": "dev",
-    "require": {}
+    "require": {
+        "nesbot/carbon": "^3.0@dev"
+    }
 }
